@@ -33,8 +33,8 @@ L'application fonctionne via la ligne de commande et propose les étapes suivant
 
 1. Clonez ce dépôt sur votre machine locale :
 
-```bash
-git clone https://github.com/o2Cloud-fr/FirefoxProfileBackup.git
+``bash
+git clone https://github.com/o2Cloud-fr/FirefoxProfileBackup.git``
 ## 🎯 Utilisation
 
 -    Lancer l'exécutable .exe.
