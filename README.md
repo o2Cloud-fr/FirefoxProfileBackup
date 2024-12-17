@@ -1,0 +1,2 @@
+# FirefoxProfileBackup
+ FirefoxProfileBackup
