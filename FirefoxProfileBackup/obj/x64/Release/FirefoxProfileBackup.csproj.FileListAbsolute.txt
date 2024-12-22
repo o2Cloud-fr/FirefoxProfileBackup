@@ -1,0 +1,8 @@
+C:\Users\MyAlien\source\repos\FirefoxProfileBackup\FirefoxProfileBackup\bin\x64\Release\FirefoxProfileBackup.exe.config
+C:\Users\MyAlien\source\repos\FirefoxProfileBackup\FirefoxProfileBackup\bin\x64\Release\FirefoxProfileBackup.exe
+C:\Users\MyAlien\source\repos\FirefoxProfileBackup\FirefoxProfileBackup\bin\x64\Release\FirefoxProfileBackup.pdb
+C:\Users\MyAlien\source\repos\FirefoxProfileBackup\FirefoxProfileBackup\obj\x64\Release\FirefoxProfileBackup.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\FirefoxProfileBackup\FirefoxProfileBackup\obj\x64\Release\FirefoxProfileBackup.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\FirefoxProfileBackup\FirefoxProfileBackup\obj\x64\Release\FirefoxProfileBackup.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\FirefoxProfileBackup\FirefoxProfileBackup\obj\x64\Release\FirefoxProfileBackup.exe
+C:\Users\MyAlien\source\repos\FirefoxProfileBackup\FirefoxProfileBackup\obj\x64\Release\FirefoxProfileBackup.pdb
